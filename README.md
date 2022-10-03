@@ -19,8 +19,8 @@ Given a string, check if it reads the same backwards and forwards, ignoring capi
 <h3>Adjacent Elements Product</h3>
 Given an array of integers, find the pair of adjacent elements that has the largest product and return that product. For eample,
 
-For inputArray = [3, 6, -2, -5, 7, 3], the output should be
-solution(inputArray) = 21.
+For `inputArray = [3, 6, -2, -5, 7, 3]`, the output should be
+`solution(inputArray) = 21`.
 
 7 and 3 produce the largest product.
 
@@ -30,8 +30,8 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
 <h3>Make Array Consecutive 2</h3>
 Arrange array from smallest to larges, then find out how many more numbers is needed to make each entry of the array one bigger then the previous entry. For example:
 
-For statues = [6, 2, 3, 8], the output should be
-solution(statues) = 3.
+For `statues = [6, 2, 3, 8]`, the output should be
+`solution(statues) = 3`.
 
 statues of sizes 4, 5 and 7 are missing.
 
