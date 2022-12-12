@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "Are Similar",
+        "Array Change"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

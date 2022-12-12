@@ -1,5 +1,3 @@
-from collections import deque
-
 def solution(picture) -> list:
     '''given a "matrix", borders it with asterisks
 
