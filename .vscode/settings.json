@@ -3,7 +3,8 @@
         "Are Similar",
         "Array Change",
         "Rearrange Palindrome",
-        "Are Equally Strong"
+        "Are Equally Strong",
+        "Array Maximal Adjacent Difference"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
