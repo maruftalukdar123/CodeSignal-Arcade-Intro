@@ -2,7 +2,8 @@
     "python.testing.pytestArgs": [
         "Are Similar",
         "Array Change",
-        "Rearrange Palindrome"
+        "Rearrange Palindrome",
+        "Are Equally Strong"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
