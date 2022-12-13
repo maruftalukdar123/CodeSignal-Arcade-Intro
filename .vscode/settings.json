@@ -4,7 +4,8 @@
         "Array Change",
         "Rearrange Palindrome",
         "Are Equally Strong",
-        "Array Maximal Adjacent Difference"
+        "Array Maximal Adjacent Difference",
+        "Avoid Obstacles"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
