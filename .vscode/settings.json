@@ -7,7 +7,8 @@
         "Array Maximal Adjacent Difference",
         "Avoid Obstacles",
         "Box Blur",
-        "Mine Sweeper"
+        "Mine Sweeper",
+        "Chess Board Cell Color"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
